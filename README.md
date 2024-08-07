@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 Update the values of `A`, `b`, and `c` to reflect your linear program. It should be of the form:
 
-$$\text{max } c^T x\\\text{s.t. } Ax = b\\ x \ge 0$$
+$$\text{max } c^T x\\ \text{s.t. } Ax = b\\ x \ge 0$$
 
 
 Then just run:
